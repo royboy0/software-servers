@@ -1,8 +1,6 @@
 # software-servers
 
-software and servers full
-
-software and servers
+FULL software and servers 
 
 Flash BTC Transaction (Core Network) Full Version 12.0.1
 
